@@ -1,0 +1,11 @@
+##########################
+# Linear Algebra Libraries
+##########################
+pandas==0.15.2
+# Recommended dependencies for pandas
+numexpr==2.2.2
+
+#####################
+# Core Applications
+#####################
+Django==1.7.2
