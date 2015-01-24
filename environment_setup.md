@@ -116,4 +116,4 @@ You must install the base_requirements.txt before installing requirements.txt (b
     # Be sure to check for errors before moving on! Google errors if you find them.
 
     # Then run
-    pip install -r /sites/pensioncalc/confs/base_requirements.txt
+    pip install -r /sites/pensioncalc/confs/requirements.txt
